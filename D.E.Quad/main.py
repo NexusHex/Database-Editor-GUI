@@ -1,4 +1,4 @@
-# D.E.Quad - GUI Edition (v1.0)
+# D.E.Penta - GUI Edition (v1.0)
 # Read file 'patches.md' to get a better idea of what this program does
 import tkinter as tk
 from tkinter import messagebox
@@ -43,7 +43,7 @@ def main():
     startup()
 
     mainWin = tk.Tk()
-    mainWin.title("Database Editor QuadFunction - v1.0")
+    mainWin.title("Database Editor PentaFunction - v1.0")
     mainWin.resizable(False, False)
 
     window_height = 400
