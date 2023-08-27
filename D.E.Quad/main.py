@@ -1,3 +1,5 @@
+# D.E.Quad - GUI Edition (v1.0)
+# Read file 'patches.md' to get a better idea of what this program does
 import tkinter as tk
 from tkinter import messagebox
 import sqlite3 as sql
