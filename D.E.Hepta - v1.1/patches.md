@@ -1,4 +1,4 @@
-This iteration of the Database Editor is a replica of the terminal-based Database Editor DecaFunction (https://github.com/NexusHex/Database-Editor-Series/tree/main/Editors/1.6.6%20-%20DecaFunction). Some functions have been cut off, since they involved saving the database in a list within the program, which doesnt happen anymore, so the function count has decreased to 7.
+This iteration of the Database Editor is a replica of the terminal-based Database Editor DecaFunction (https://github.com/NexusHex/Database-Editor-Series/tree/main/Editors/1.6.6%20-%20DecaFunction) in a GUI format. Some functions have been cut off, since they involved saving the database in a list within the program, which doesnt happen anymore, so the function count has decreased to 7.
 
 Date created: 8/27/2023
 
